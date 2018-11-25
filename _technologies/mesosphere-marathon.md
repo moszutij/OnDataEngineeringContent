@@ -6,8 +6,8 @@ vendor:  [Mesosphere]
 tech-relationships: [[uses, ZooKeeper]]
 type: "Commercial Open Source"
 date:  2017-07-19 07:45
-last_updated: 2017-10-11
-version: "v1.5"
+last_updated: 2018-11-25
+version: "1.5.12"
 ---
 ## Release History
 
