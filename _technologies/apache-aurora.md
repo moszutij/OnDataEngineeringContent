@@ -4,8 +4,8 @@ description: "A service scheduler for defining and managing bundled tasks as job
 alt-titles: [Aurora]
 vendors:  [Apache]
 type: "Open Source - Active"
-date:  2017-07-18 07:30
-version: "v0.18"
+date:  2018-11-25
+version: "0.21"
 ---
 ## Links
 
