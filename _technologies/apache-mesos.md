@@ -5,9 +5,18 @@ alt-titles: [Mesos, DC/OS]
 vendors:  [Apache, Mesosphere]
 tech-relationships: [[add ons, Marathon, Chronos, Aurora, Myriad, Apache REEF], [uses, ZooKeeper]]
 type: "Commercial Open Source"
-date:  2017-07-17 07:45
-version: "v1.3"
+date:  2018-11-25
+version: "1.7"
 ---
+## Release History
+
+| version | release date | release links | release comment
+| 1.3.0 | 2017-06-07 | [announcement](http://mesos.apache.org/blog/mesos-1-3-0-released) |
+| 1.4.1 | 2017-11-16 | [announcement](http://mesos.apache.org/blog/mesos-1-4-1-released) |
+| 1.5.0 | 2018-02-08 | [announcement](http://mesos.apache.org/blog/mesos-1-5-0-released) |
+| 1.6.1 | 2018-07-25 | [announcement](http://mesos.apache.org/blog/mesos-1-6-1-released) |
+| 1.7.0 | 2018-09-24 | [announcement](http://mesos.apache.org/blog/mesos-1-7-0-released) |
+
 ## Links
 
 * <http://mesos.apache.org/> - product home page
