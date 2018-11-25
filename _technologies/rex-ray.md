@@ -4,8 +4,8 @@ description: "Open source, storage management solution providing containers to a
 vendors: [Dell EMC]
 type: "Open Source - Active"
 date: 2017-08-23 07:45
-last_updated: 2017-10-11
-version: "0.10"
+last_updated: 2018-11-25
+version: "0.11.3"
 ---
 ## Release History
 
